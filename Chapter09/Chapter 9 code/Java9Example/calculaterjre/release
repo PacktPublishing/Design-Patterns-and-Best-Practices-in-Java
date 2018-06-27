@@ -1,0 +1,2 @@
+JAVA_VERSION="9.0.4"
+MODULES="java.base com.example com.example.user"
