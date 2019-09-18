@@ -1,6 +1,6 @@
 # Design Patterns and Best Practices in Java
 
-<a href="https://www.packtpub.com/application-development/design-patterns-and-best-practices-java?utm_source=github&utm_medium=repository&utm_campaign=9781786463593"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05778_Newcover.png" alt="Design Patterns and Best Practices in Java" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/design-patterns-and-best-practices-java?utm_source=github&utm_medium=repository&utm_campaign=9781786463593"> <object data="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05778_newcover.png" type="image/png" alt="Design Patterns and Best Practices in Java" height="256px" align="right"><img src="https://i.imgur.com/T0lC8Xf.png" alt="Design Patterns and Best Practices in Java" height="256px" align="right"></object></a>
 
 This is the code repository for [Design Patterns and Best Practices in Java](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java?utm_source=github&utm_medium=repository&utm_campaign=9781786463593), published by Packt.
 
