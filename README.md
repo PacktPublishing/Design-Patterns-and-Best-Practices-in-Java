@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05778?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Design Patterns and Best Practices in Java
 
 <a href="https://www.packtpub.com/application-development/design-patterns-and-best-practices-java?utm_source=github&utm_medium=repository&utm_campaign=9781786463593"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05778_Newcover.png" alt="Design Patterns and Best Practices in Java" height="256px" align="right"></a>
